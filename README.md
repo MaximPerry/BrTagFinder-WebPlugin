@@ -5,7 +5,7 @@ Firefox BrTagFinder was born from a need in Accessibility Testing at [Employment
 
 It is free to use, open to edit and licensed [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). Read our LICENSE to know more.
 
-Download link : [Download](https://github.com/MaximPerry/Firefox-GrayScaleFilter/blob/master/compiled/firefox_GrayscaleFilter.xpi?raw=true)
+Download link : [Download](https://github.com/MaximPerry/Firefox-BrTagFinder/raw/master/compiled/firefox_BrTagFinder.xpi)
 
 Once downloaded, install it by opening it with Firefox. Once installed, you'll have a new icon in your toolbar. Simply click on it to make a web page gray scaled.
 __________
